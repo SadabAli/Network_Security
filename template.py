@@ -13,7 +13,7 @@ list_of_files=[
     f"{project_name}/components/__init__.py",
     f"{project_name}/constants/__init__.py",
     f"{project_name}/entity/__init__.py",
-    f"{project_name}/loggoing/__init__.py",
+    f"{project_name}/loging/__init__.py",
     f"{project_name}/pipeline/__init__.py",
     f"{project_name}/utils/__init__.py",
 
