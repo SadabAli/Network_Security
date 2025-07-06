@@ -39,8 +39,8 @@ Even if you don't know much about AI, think of it like a smart security guard fo
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/mlguard-network-traffic.git
-   cd mlguard-network-traffic
+   https://github.com/SadabAli/Network_Security.git
+   Network_Security
    ```
 2. **Install Requirements**
     ```
