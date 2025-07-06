@@ -87,17 +87,21 @@ Track model performance and experiment history:
 mlflow ui
 Visit: http://127.0.0.1:5000
 ```
-📸 Screenshot:
+
+![Screenshot 2025-07-06 172605](https://github.com/user-attachments/assets/d27bbc47-0122-437d-864c-1a91b2b3660a)
+
 
 ## Output CSV
 prediction_output/output.csv
 
+![Screenshot 2025-07-06 175354](https://github.com/user-attachments/assets/52568133-31cb-406c-a069-0c7e17c77245)
 
 
 ## AWS S3 Integration
 Models are automatically backed up to an S3 bucket.
 
-📸 Screenshot:
+
+![Screenshot 2025-07-06 194034](https://github.com/user-attachments/assets/66603612-f6bd-48a6-b90b-5230729b86ab)
 
 
 ## MongoDB Integration
@@ -109,7 +113,8 @@ Used to store:
 
 - Predictions
 
-📸 Screenshot:
+
+![Screenshot 2025-07-06 145441](https://github.com/user-attachments/assets/2f0351d4-6af6-4c3f-acc3-c160195af95f)
 
 
 
